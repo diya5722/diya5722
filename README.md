@@ -2,6 +2,7 @@
 #### I'm currently learning web development.
 #### I'm pursuing Btech in CSE
 #### Pursuing degree from ITM(SLS) Baroda University!!
+#### Skills : Front-end developer, Github, Python, Java.....
 
 <!--
 **diya5722/diya5722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
