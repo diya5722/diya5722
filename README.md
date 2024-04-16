@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diya5722&label=Profile%20views&color=0e75b6&style=flat" alt="diya5722" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://diya5722.github.io/))
+- 🔭 I’m currently working on [Portfolio Website](https://diya5722.github.io/)
 
 - 🌱 I’m currently learning **Data Structure Algorithms & Web Development**
 
